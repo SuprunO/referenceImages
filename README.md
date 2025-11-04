@@ -1,6 +1,8 @@
+**Launch n8n**
+pm2 start n8n --name n8n
 
-**n8n local:**
-http://localhost:5678/workflow/aLLoXBaup43Miv3K
+**Open:**
+http://localhost:5678/home/workflows
 
 **Image reference:**
 POST
@@ -14,6 +16,3 @@ https://kie.ai/api-key
 form-data;
 file - path to file; 
 uploadPath - images
-
-
-
